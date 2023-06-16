@@ -42,6 +42,6 @@ async function getFact(){
 }
 
 
-/* OPTIONAL PRACTICE: If you want more practice later, try retreiving data from a different api.
+/* OPTIONAL PRACTICE: If you want more practice later, try retrieving data from a different api.
         You can check here for more apis, choose one: https://rapidapi.com/collection/cool-apis
 */
