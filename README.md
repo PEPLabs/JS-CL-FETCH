@@ -3,7 +3,7 @@
 
 ## Description
 
-In this lab you'll learn how to use fetch in JavaScript to retreive data from an API.
+In this lab you'll learn how to use fetch in JavaScript to retrieve data from an API.
 
 
 ## Where to start
