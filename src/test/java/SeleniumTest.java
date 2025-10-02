@@ -262,11 +262,7 @@ public class SeleniumTest {
     
     private File findHtmlFile() {
         String[] possibleHtmlPaths = {
-            "src/main/cat-facts.html",
-            "cat-facts.html",
-            "src/test/resources/cat-facts.html",
-            "test-resources/cat-facts.html",
-            "src/main/resources/cat-facts.html"
+            "src/main/cat-facts.html"
         };
         
         for (String htmlPath : possibleHtmlPaths) {
