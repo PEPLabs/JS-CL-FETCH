@@ -1,0 +1,20 @@
+{
+  "type": "java",
+  "testFiles": [
+    {
+      "path": "src/test/java/SeleniumTest.java",
+      "testCases": [
+        {
+          "methodName": "testCatFact",
+          "label": "Verify dynamic cat fact updates",
+          "description": "Checks that the initial placeholder text is displayed and that clicking the button updates the content dynamically."
+        },
+        {
+          "methodName": "initialState",
+          "label": "Verify initial content state",
+          "description": "Asserts that the initial content of the page element with id 'content' is 'placeholder'."
+        }
+      ]
+    }
+  ]
+}
